@@ -4552,7 +4552,8 @@
     <param pos="0" name="os.product" value="FortiOS"/>
     <param pos="0" name="os.device" value="Firewall"/>
     <param pos="0" name="os.cpe23" value="cpe:/o:fortinet:fortios:-"/>
-    <param pos="0" name="hw.vendor" value="Fortinet"/>
+    <param pos="0" name="hw.vendor" value="DNE1"/>
+    <param pos="0" name="hw.dne" value="DNE2"/>
   </fingerprint>
 
 </fingerprints>
